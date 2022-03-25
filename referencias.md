@@ -1,0 +1,36 @@
+- Kovach, M. (2020). Leader Influence: A Research Review of French & Raven’s (1959) Power Dynamics, The Journal of Values-Based Leadership, 13, 15, ScholarValpo.
+- Anderson, C., John, O., and Keltner, D. (2012). The personal sense of power. Journal of Personality, 80(2), 313-344.
+- Berdahl, J. (2008). Introduction: Social power in action. Social Justice Research, 21(3), 255 – 262.
+- Biong, H., Nygaard, A., and Silkoset, R. (2010). The influence of retail management’s use of social power on corporate ethical values, employee commitment, and performance. Journal of Business Ethics, 97, 341-363.
+- Bolman, L. and Deal, T. (2008). Reframing Organizations Artistry, Choice and Leadership 4th ed., San Francisco, CA: Jossey-Bass.
+- Coelho, T., Cunha, M., and Souza Meirelles, F. (2016). The client-consultant relationship in ERP implementation in government: Exploring the dynamic between power and knowledge. Information Polity, 21, 307-320.
+- Deci, E. and Ryan, R. (1985). Intrinsic motivation and self-determination in human behavior. New York: Plenum Press.
+- Deci, E. and Ryan, R. (2000). The ‘what’ and ‘why’ of goal pursuits: Human needs and the self- determination of behavior. Psychological Inquiry, 11, 227-268.
+- Deci, E., Ryan, R., Gagne, M., Leone, D., Usunov, J., and Kornazheva, B. (2001). Need satisfaction, motivation, and well-being in the work organizations of a former Eastern bloc country: A cross-cultural study of self-determination. Personality and Social Psychology Bulletin, 27(8), 930.
+- Einarsen, S., Hoel, H., Zapf, D., and Cooper, C. (2003). Bullying and emotional abuse in the workplace. In (S. Einarsen, H. Hoel, D. Zapf & C.L. Cooper eds.) International Perspective in Research and Practice, Taylor & Francis: London, 127-144.
+- Elangovan, A. and Xie, J. (1999). Effects of perceived power of supervisor on subordinate stress and motivation: The moderating role of subordinate characteristics. Journal of Organizational Behavior, 20, 359-373.
+- Etzioni, A. (1961). A comparative analysis of complex organizations. New York, NY: Free Press. 
+- Farmer, S. and Aguinis, H. (2005). Accounting for subordinate perceptions of supervisory power: An identity-dependence model. Journal of Applied Psychology, 90, 1069-1083.
+- Fredrickson, B., Cohn, M., Coffey, K., Pek, J., and Finkel, S. (2008). Open hearts build lives: Positive emotions, induced through loving-kindness meditation, build consequential personal resources. Journal of Personality and Social Psychology, 95, 1045-1062.
+- French, J. and Raven, B. (1959). The Bases of Social Power. In Studies in Social Power, D. Cartwright, Ed., pp. 150-167. Ann Arbor, MI: Institute for Social Research.
+- Gagne, M. and Deci, E. (2005). Self-determination theory and work motivation. Journal of Organizational Behavior, 26, 331-362.
+- Goodstadt, B. and Hjelle, L. (1973). Power to the Powerless: Locus of control and the use of power. Journal of Personality and Social Psychology, 27(2), 190-196.
+- Hegtvedt, K. (1988). Social determinants of perception: Power, equity, and status effects in an exchange situation. Social Psychology Quarterly, 51(2), 141-153.
+- Jones, E. and deCharms, R. (1957). Changes in social perceptions as a function of the personal relevance of behavior. Sociometry, 20, 77-85.
+- Jones, G. and George J. (2015). Essentials of Contemporary Management 6th ed., New York, NY: McGraw Hill Education.
+- Keltner, D., Gruenfeld, D., and Anderson, C. (2003). Power, approach, and inhibition. Psychology Review, 110(2), 265-284.
+- Keltner, D., Young, R., Heerey, E., Oemig, C., and Monarch, N. (1998). Teasing in hierarchical and intimate relations. Journal of Personality and Social Psychology, 75, 1231-1247.
+- Kovach, M. (2020). The impact of #MeToo: A review of leaders with supervisor power on employee motivation. The Journal of Values-Based Leadership, 13(1), Article 13.
+- Locke, E. (1986). Toward a theory of task performance and incentive. Organizational Behavior and Human Performance, 3, 157-189.
+- McShane, S. and Von Glinow, M. (2003). Organizational behavior: Emerging realities for the workplace revolution. New York: McGraw Hill.
+- Mysen, T., Svensson, G., and Hogevold, N. (2012). Relationship Quality – Relationship value and power balance in business relationships: Descriptives and propositions. Journal of Business-to-Business Marketing, 19, 248-285.
+- Nesler, M., Quigley, B., Aguinis, H., Lee, S., and Tedeschi, J. (1999). The development and validation of a scale measuring global social power based on French and Raven’s power taxonomy. Journal of Applied Social Psychology, 29(4), 750-771.
+- Nyaga, G., Lynch, D., Marshall, D., and Ambrose, E. (2013). Power asymmetry, adaptation, and collaboration in dyadic relationships involving a powerful partner. Journal of Supply Chain Management, 49(3), 42-65.
+- Olekalns, M. and Smith, P. (2013). Dyadic power profiles: Power-contingent strategies for value creation in negotiation. Human Communication Research, 39, 3-20.
+- Pratto, F., Pearson, A., I-Ching, L., and Saguy, T. (2008). Power dynamics in an experimental game. Social Justice Research, 21(3), 377-407.
+- Randolph, W. and Kemery, E. (2011). Managerial uses of power bases in a model of managerial empowerment practices and employee psychological empowerment. Journal of Leadership & Organizational Studies 18(1), 95-106
+- Robbins, S. and Judge, T. (2017). Organizational Behavior (17th ed.). Upper Saddle River, NJ: Pearson Education Inc.
+- Sheu, J. (2014). Green supply chain collaboration for fashionable consumer electronics products under third-party power intervention – a resource dependence perspective. Sustainability, 6, 2832-2875.
+- Teven, J. (2006). The effects of supervisor nonverbal immediacy and power use on employees’ ratings of credibility and affect for the supervisor. Human Communication, 13(2), 69 – 85. 
+- Thoresen, C., Kaplan, S., Barsky, A., Warren, C., and De Chermont, K. (2003). The affective underpinnings of job perceptions and attitudes: A meta-analytic review and integration. Psychological Bulletin, 129(6), 914-945.
+- Vecchio, R. (1997). Leadership: Understanding the Dynamics of Power and Influence in Organizations. University of Notre Dame Press, Notre Dame, IN.
